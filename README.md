@@ -1,2 +1,4 @@
-# QR_Generator
+# QR Generator
 C# based QR Generator
+
+![](QR.png)
