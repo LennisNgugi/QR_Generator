@@ -1,7 +1,7 @@
 # QR Generator
 C# based QR Generator
 
-![](QR.png)
+![](QRCode.png)
 
 # Instructions to use the project  
    <li>Use Visual Studio 2010 or Later version to open project</li>
