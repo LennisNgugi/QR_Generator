@@ -1,5 +1,5 @@
 # QR Generator
-C# based QR Generator
+Simple C# based QR Generator
 
 ![](QRCode.png)
 
