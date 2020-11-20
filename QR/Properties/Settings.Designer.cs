@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QRCodeDemo.Properties
+namespace QR.Properties
 {
 
 
